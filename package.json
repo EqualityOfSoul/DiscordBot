@@ -21,7 +21,7 @@
     "passport": "^0.4.0",
     "passport-discord": "^0.1.2",
     "path": "^0.12.7",
-    "process-nextick-args": "^1.0.7",
+    "process-nextick-args": "^2.0.1",
     "rebuild": "^0.1.2",
     "url": "^0.11.0",
     "util-deprecate": "^1.0.2",
